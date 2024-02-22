@@ -1,6 +1,6 @@
 # OpenWeatherAPI
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
+Esse é um projeto feito no ANGULAR que consiste em local de visualição da situação climatica de uma região, sendo sua fonte de busca feita pelo nome da cidade.
 
 ## Development server
 
